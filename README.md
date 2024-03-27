@@ -16,7 +16,7 @@ This project helps us to understand the basic working of Bank accounts. Some of 
 
 **1. Clone the repository**
 ```bash
-    git clone https://github.com/AbhayKatharotiya/BankingSystem.git
+    git clone https://github.com/sneh2102/online-banking.git
 ```
 
 **2. Move to root directory of backend**
@@ -70,27 +70,27 @@ The app defines following APIs.
 
 ### Login
 
-![Login image](https://github.com/AbhayKatharotiya/BankingSystem/blob/master/readme-images/login.PNG?raw=true)
+![Login image](https://github.com/sneh2102/online-banking/blob/main/images/login.PNG)
 
 ### Register
 
-![Register image](https://github.com/AbhayKatharotiya/BankingSystem/blob/master/readme-images/register%20new.PNG?raw=true)
+![Register image](https://github.com/sneh2102/online-banking/blob/main/images/register.PNG)
 
 ### Home
 
-![Home Page image](https://github.com/AbhayKatharotiya/BankingSystem/blob/master/readme-images/home.PNG?raw=true)
+![Home Page image](https://github.com/sneh2102/online-banking/blob/main/images/home.PNG)
 
 ### Profile
 
-![Profile image](https://github.com/AbhayKatharotiya/BankingSystem/blob/master/readme-images/profile.PNG?raw=true)
+![Profile image](https://github.com/sneh2102/online-banking/blob/main/images/profile.PNG)
 
 ### Transaction History
 
-![History image](https://github.com/AbhayKatharotiya/BankingSystem/blob/master/readme-images/history.PNG?raw=true)
+![History image](https://github.com/sneh2102/online-banking/blob/main/images/history.PNG)
 
 ### Transfer
 
-![Transfer image](https://github.com/AbhayKatharotiya/BankingSystem/blob/master/readme-images/transfer.PNG?raw=true)
+![Transfer image](https://github.com/sneh2102/online-banking/blob/main/readme-images/transfer.PNG)
 
 
 # Future Extension
