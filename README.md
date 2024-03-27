@@ -90,7 +90,7 @@ The app defines following APIs.
 
 ### Transfer
 
-![Transfer image](https://github.com/sneh2102/online-banking/blob/main/readme-images/transfer.PNG)
+![Transfer image](https://github.com/sneh2102/online-banking/blob/main/images/transfer.PNG)
 
 
 # Future Extension
